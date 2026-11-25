@@ -1,4 +1,3 @@
     Blocking waiting for file lock on package cache
     Blocking waiting for file lock on package cache
-    Checking hello_cargo v0.1.0 (/home/ryo/rust_tutorial/hello_cargo)
-    Finished `dev` profile [unoptimized + debuginfo] target(s) in 2.01s
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.01s

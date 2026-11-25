@@ -1,2 +1,2 @@
-    Checking type_conversion v0.1.0 (/home/ryo/rust_tutorial/type_conversion)
-    Finished `dev` profile [unoptimized + debuginfo] target(s) in 2.12s
+    Blocking waiting for file lock on package cache
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.01s
