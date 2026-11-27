@@ -1,4 +1,2 @@
-    Checking Match v0.1.0 (/home/ryo/rust_tutorial/Match)
-error: could not compile `Match` (bin "Match") due to 1 previous error
-warning: build failed, waiting for other jobs to finish...
-error: could not compile `Match` (bin "Match" test) due to 1 previous error
+    Checking Match v0.1.0 (/home/ryo/Documents/rust_tutorial/Match)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.05s
